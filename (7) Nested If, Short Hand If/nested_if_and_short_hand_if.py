@@ -34,11 +34,6 @@
 #         print('You Are Accepted!')
 
 
-
-
-
-
-
 ## Short Hand If ##
 # If you have only one statement to execute, you can put it on the same line as the if statement.
 
@@ -94,4 +89,4 @@ b = 10
 #         print("B")
 
 
-print('A') if (a>b) else print('Equals') if (a == b) else print('B')
+# print('A') if (a>b) else print('Equals') if (a == b) else print('B')
